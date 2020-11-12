@@ -3,6 +3,7 @@ Coversation functions needed:
 - Dollars to Cents
 - Gallons to Liters
 - Hours to Minutes
-- Feet to Inches
+- Feet to Inches [Done]
 - Degrees to Radians
+- Pounds to kg [Done]
 
